@@ -53,3 +53,6 @@ cd aiileyazilmiskod
 npm install
 npx expo start
 ```
+
+test etmek isterseniz: https://aidedektoruhasanhocaspecial.vercel.app
+    
